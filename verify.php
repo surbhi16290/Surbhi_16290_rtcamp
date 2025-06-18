@@ -1,0 +1,3 @@
+<?php
+// Email verification handler
+?>
